@@ -5,7 +5,7 @@
 - ✈️ **Aviation Enthusiast**
 - 🎸 **Rammstein Fan**
 - 🌇 **Co-founder of DoubleD-Software**
-- 💬 **Discord: tesa-klebeband#2004**
+- 💬 **Discord: tesa_klebeband**
 <!--
 **tesa-klebeband/tesa-klebeband** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
