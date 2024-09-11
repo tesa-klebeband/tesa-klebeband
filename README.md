@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![tesa-klebeband's Stats](https://github-readme-stats.vercel.app/api?username=tesa-klebeband&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
-![tesa-klebeband's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tesa-klebeband&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
+![tesa-klebeband's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=tesa-klebeband&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true)
+![tesa-klebeband's Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tesa-klebeband&theme=algolia&show_icons=true&hide_border=true&layout=compact)
