@@ -3,7 +3,6 @@
 - 🇩🇪 **I am from Germany**
 - 💻 **Favourite programming language: C++**
 - ✈️ **Aviation Enthusiast**
-- 🎸 **Rammstein Fan**
 - 🌇 **Co-founder of DoubleD-Software**
 - 💬 **Discord: tesa_klebeband**
 <!--
